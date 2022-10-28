@@ -1,0 +1,168 @@
+/* CSS Document */
+/*-----------------thân--------------------*/
+.table_1{
+	margin-left:30px;
+	margin-top:20px;
+}
+.table_2{
+	margin-left:30px;
+	margin-top:30px;
+}
+.h3:hover{
+	color:#3DF0F3;
+	cursor:pointer;
+}
+img:hover{
+	cursor:pointer;
+}
+.datetime{
+	font-size:12px;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	color:#DDDDDD;
+	margin-top:10px;
+	margin-left:0px;
+}
+ol{
+	padding-left:15px;
+	font-weight:bold;
+	font-size:20px;
+	margin-left:10px;
+}
+.a1{
+	text-decoration:none;
+	cursor:pointer;
+	font-weight:bold;
+}
+.a1:hover{
+	color:#3CA6E1;
+	text-decoration:underline;
+	font-weight:bold;
+}
+strong{
+	font-size:20px;
+}
+/*-----------------bài báo--------------------*/
+.div1{
+	width:91%;
+	float:left;
+	text-align:justify;
+	margin-left:30px;
+}
+.div2{
+	width:88%;
+	float:left;
+	text-align:justify;
+	color:#000000;
+    border:5px solid #9DF0F1;
+	border-radius:0px 50px;
+	padding: 15px 20px;
+	background-color:#FFFFFF;
+	margin-bottom:70px;
+}
+.img1{
+	margin-left:30px;
+	margin-top:30px;
+}
+.img2{
+	margin-top:40px;
+}
+.div3{
+	width:88%;
+	float:left;
+	text-align:justify;
+}
+.bor_phim{
+	background-color:white;
+	border:1px solid white;
+	border-radius:2px;
+	color:#000000;
+	width:90px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:15px;
+	margin-left:0px;
+}
+.bor_phim:hover{
+	background-color:#3DF0F3;
+	border:1px solid #3DF0F3;
+	border-radius:2px;
+	color:#000000;
+	width:90px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:15px;
+	cursor:pointer;
+}
+.bor_td{
+	background-color:white;
+	border:1px solid white;
+	border-radius:2px;
+	color:#000000;
+	width:120px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:15px;
+	margin-left:0px;
+}
+.bor_td:hover{
+	background-color:#3DF0F3;
+	border:1px solid #3DF0F3;
+	border-radius:2px;
+	color:#000000;
+	width:120px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:15px;
+	cursor:pointer;
+}
+.input1{
+	padding:5px;
+	border:1px solid #727272;
+	border-radius:2px;
+	background-color:white;
+
+}
+#txt{
+	padding:5px;
+	border:1px solid #727272;
+	border-radius:2px;
+	background-color:white;
+	width:630px;
+	height:200px;
+
+}
+#submit{
+	padding:8px;
+	color:white;
+	background-color:#0A9ED3;
+	border:1px solid #0A9ED3;
+	border-radius:5px;
+	margin-bottom:30px;
+	font-weight:bold;
+	cursor:pointer;
+}
+#submit:hover{
+	padding:8px;
+	color:white;
+	background-color:#1287A4;
+	border:1px solid #0A9ED3;
+	border-radius:5px;
+	font-weight:bold;
+}
+p{
+	margin-left:10px;
+}
+.mail1{
+	color:#000000;
+	text-decoration:none;
+}
+.mail1:hover{
+	color:#2588F0;
+	text-decoration:underline;
+}
+
+

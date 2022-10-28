@@ -1,0 +1,238 @@
+/*-----------------thân--------------------*/
+/*-----------------hiện đại--------------------*/
+.table_1{
+	margin-left:40px;
+	margin-top:20px;
+}
+.table_2{
+	margin-left:40px;
+	margin-top:30px;
+}
+.img1_des{
+	position: absolute;
+	color:white;
+	text-align:center;
+	margin:auto;
+	margin-top:330px;
+	font-size:24px;
+	margin-left:175px;
+	z-index:1;
+}
+.img1_des:hover{
+	color:#6AF4F2;
+	text-align:center;
+	margin:auto;
+	margin-top:330px;
+	font-size:24px;
+	margin-left:175px;
+	cursor:pointer;
+}
+.img2_des{
+	position: absolute;
+	color:white;
+	text-align:center;
+	margin:auto;
+	margin-top:155px;
+	margin-left:60px;
+	z-index:1;
+}
+.img2_des:hover{
+	color:#6AF4F2;
+	text-align:center;
+	margin:auto;
+	margin-top:155px;
+	margin-left:60px;
+	cursor:pointer;
+}
+.img3_des{
+	position: absolute;
+	color:white;
+	text-align:center;
+	margin:auto;
+	margin-top:155px;
+	margin-left:80px;
+	z-index:1;
+}
+.img3_des:hover{
+	color:#6AF4F2;
+	text-align:center;
+	margin:auto;
+	margin:auto;
+	margin-top:155px;
+	margin-left:80px;
+	cursor:pointer;
+}
+.img_1{
+	width:640px;
+	height:412px;
+	float:left;
+	overflow: hidden;
+}
+.img_1 img{
+	transition-duration: 0.3s;
+	width: 100%;
+    height: 100%;
+}
+.img_1 img:hover{
+	transform: scale(1.15);
+}
+.img_2{
+	width:350px;
+	height:206px;
+	float:left;
+	overflow: hidden;
+}
+.img_2 img{
+	transition-duration: 0.3s;
+	width: 100%;
+    height: 100%;
+}
+.img_2 img:hover{
+	transform: scale(1.15);
+}
+.img_3{
+	width:350px;
+	height:206px;
+	float:left;
+	overflow: hidden;
+}
+.img_3 img{
+	transition-duration: 0.3s;
+	width: 100%;
+    height: 100%;
+}
+.img_3 img:hover{
+	transform: scale(1.15);
+}
+.bor_hd{
+	background-color:white;
+	border:1px solid white;
+	border-radius:2px;
+	color:#000000;
+	width:90px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+}
+.bor_hd:hover{
+	background-color:#3DF0F3;
+	border:1px solid #3DF0F3;
+	border-radius:2px;
+	color:#000000;
+	width:90px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	cursor:pointer;
+}
+.datetime{
+	font-size:12px;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	color:#DDDDDD;
+	margin-top:10px;
+}
+.btn{
+	padding:8px 8px;
+	background-color:#1FBCB5;
+	color:white;
+	cursor:pointer;
+	border:1px solid #1FBCB5;
+	border-radius:3px;
+	margin-top:20px;
+}
+.btn:hover{
+	padding:8px 8px;
+	background-color:#4CD2E8;
+	color:white;
+	cursor:pointer;
+	border:1px solid #4CD2E8;
+	border-radius:3px;
+	margin-top:20px;
+	font-weight:bold;
+}
+.h3:hover{
+	color:#3DF0F3;
+	cursor:pointer;
+}
+img{
+	cursor:pointer;
+}
+.img_hd{
+	margin-top:40px; 
+	margin-bottom:70px;
+	margin-left:150px;
+	border:1px solid #A6A6A6;
+	box-shadow: 8px 8px 8px 8px #121332;
+	padding:5px 5px;
+	background-color:#DBDBDB;
+}
+.img_hd:hover{
+	cursor:default;
+}
+
+/*-----------------hình_thân_hiện đại--------------------*/
+.poster_1{
+	margin-top:20px;
+	width:250px;
+	height:350px;
+	overflow: hidden;
+}
+.poster_1 img{
+	transition-duration: 0.3s;
+	width: 100%;
+    height: 100%;
+}
+.poster_1 img:hover{
+	transform: scale(1.15);
+}
+.poster_2{
+	margin-top:30px;
+	width:250px;
+	height:350px;
+	overflow: hidden;
+}
+.poster_2 img{
+	transition-duration: 0.3s;
+	width: 100%;
+    height: 100%;
+}
+.poster_2 img:hover{
+	transform: scale(1.15);
+}
+
+/*-----------------cổ đại--------------------*/
+/*-----------------hình_thân_cổ đại--------------------*/
+/*-----------------xuyên không--------------------*/
+.bor_xk{
+	background-color:white;
+	border:1px solid white;
+	border-radius:2px;
+	color:#000000;
+	width:120px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+}
+.bor_xk:hover{
+	background-color:#3DF0F3;
+	border:1px solid #3DF0F3;
+	border-radius:2px;
+	color:#000000;
+	width:120px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	cursor:pointer;
+}
+/*-----------------hình_thân_xuyên không--------------------*/
+/*-----------------huyền huyễn--------------------*/
+/*-----------------hình_thân_huyền huyễn--------------------*/
+/*-----------------đề_cử_truyện--------------------*/
+.table_4{
+	margin-top:35px;
+}
+.div1{
+	width:88%;
+	float:left;
+	text-align:justify;
+}

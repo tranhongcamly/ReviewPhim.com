@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="../styles/test.css">
+<link rel="stylesheet" type="text/css" href="../fontawesome/css/all.min.css">
+<link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Review HAY.com</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="100%" border="0">
+  <tbody>
+    <tr valign="middle" id="mucluc">
+      <td>
+         <nav>
+		  <div class="logo">Review<img src="../images/001-television.png" width="32" height="32" alt=""/>HAY.com</div>
+		  <ul>
+			<li><a href="../trangchu.html">TRANG CHỦ</a></li>
+            <li><a href="../phim.html">PHIM</a></li>
+            <li><a href="../truyen.html">TRUYỆN</a></li>
+			<li>
+				<a href="../baibao.html">BÀI BÁO</a>
+				<ul>
+					<li><a href="../baibao.html">Giải thích thuật ngữ</a></li>
+				</ul>
+            <li><a href="../lienhe.html">LIÊN HỆ</a></li>
+            <li><input type="search" size="25" class="search" placeholder="Tìm kiếm"></li><i class="fas fa-search"></i>
+			</li>
+          </ul>
+         </nav>
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <div id="slideshow">
+           <div class="slide-wrapper">
+             <div class="slide"><img src="../images/hntvt.jpeg" width="1520" height="700px" alt=""/></div>
+             <div class="slide"><img src="../images/kemcrd_3.jpg" width="1520" height="700px" alt=""/></div>
+             <div class="slide"><img src="../images/hyh_1.jpg" width="1520" height="700px" alt=""/></div>
+           </div>
+         </div>
+      </td>
+    </tr>
+    <tr id="content">
+      <td >
+      <!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td id="footer" align="center" valign="middle">
+         <h2 style="cursor:pointer">Review<img src="../images/001-television.png" width="32" height="32" alt=""/>HAY.com</h2>
+         <p style="font-family:Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', monospace">contact us: <a class="mail">reviewhay@gmail.com</a></p>
+         <ul style="list-style-type:none">
+            <li class="li_f1"><i class="fab fa-facebook-f"></i> <span class="spa_f">Facebook</span></li>
+            <li class="li_f1"><i class="fab fa-youtube"></i> <span class="spa_y">Youtube</span></li>
+         </ul>
+         <hr width="50%" color="#9DF0F1" align="center">
+        
+            <ul style="list-style-type:none"> 
+               <li class="li_f2">HOME</li>
+               <li class="li_f2">ABOUT</li>
+               <li class="li_f2">CONTACT</li>
+               <li class="li_f2">PRIVACY POLICIES</li>
+            </ul>
+         
+         <hr width="50%" color="#9DF0F1" align="center">
+         <p style="font-family:Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', monospace">Copyright <i class="far fa-copyright"></i> 2021 Review HAY.com</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,135 @@
+/* CSS Document */
+/*-----------------thân--------------------*/
+.table_1{
+	margin-left:30px;
+	margin-top:20px;
+}
+.table_2{
+	margin-left:30px;
+	margin-top:30px;
+}
+.datetime{
+	font-size:12px;
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	color:#DDDDDD;
+	margin-top:10px;
+}
+.btn{
+	padding:8px 8px;
+	background-color:#1FBCB5;
+	color:white;
+	cursor:pointer;
+	border:1px solid #1FBCB5;
+	border-radius:3px;
+	margin-top:20px;
+	margin-left:30px;
+}
+.btn:hover{
+	padding:8px 8px;
+	background-color:#4CD2E8;
+	color:white;
+	cursor:pointer;
+	border:1px solid #4CD2E8;
+	border-radius:3px;
+	margin-top:20px;
+	font-weight:bold;
+}
+.h3:hover{
+	color:#3DF0F3;
+	cursor:pointer;
+}
+img:hover{
+	cursor:pointer;
+}
+ol{
+	padding-left:15px;
+}
+.a1{
+	text-decoration:none;
+	cursor:pointer;
+	font-weight:bold;
+}
+.a1:hover{
+	color:#3CA6E1;
+	text-decoration:underline;
+	font-weight:bold;
+}
+
+/*-----------------bài báo--------------------*/
+.div1{
+	width:91%;
+	float:left;
+	text-align:justify;
+	margin-left:30px;
+}
+.div2{
+	width:88%;
+	float:left;
+	text-align:justify;
+	margin-left:30px;
+	color:#000000;
+    border:5px solid #9DF0F1;
+	border-radius:20px;
+	padding: 15px 20px;
+	background-color:#FFFFFF;
+	margin-bottom:70px;
+}
+.img1{
+	margin-left:30px;
+	margin-top:30px;
+}
+.img2{
+	margin-top:40px;
+}
+.div3{
+	width:88%;
+	float:left;
+	text-align:justify;
+}
+.bor_phim{
+	background-color:white;
+	border:1px solid white;
+	border-radius:2px;
+	color:#000000;
+	width:90px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:15px;
+}
+.bor_phim:hover{
+	background-color:#3DF0F3;
+	border:1px solid #3DF0F3;
+	border-radius:2px;
+	color:#000000;
+	width:90px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:15px;
+	cursor:pointer;
+}
+.bor_td{
+	background-color:white;
+	border:1px solid white;
+	border-radius:2px;
+	color:#000000;
+	width:120px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:15px;
+}
+.bor_td:hover{
+	background-color:#3DF0F3;
+	border:1px solid #3DF0F3;
+	border-radius:2px;
+	color:#000000;
+	width:120px;
+	padding:3px 3px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:15px;
+	cursor:pointer;
+}
+
